@@ -4,14 +4,8 @@ The application read Samsung datafiles from the wroking directory, add appropria
 ## Instructions
 Download the Samsung data from this website:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Unzip the file and move the following in the same working directory:
-features.txt
-subject_train.txt
-subject_test.txt
-X_train.txt
-X_test.txt
-y_train.txt
-y_test.txt
+Unzip the file and move the following in the same working directory: features.txt; subject_train.txt; subject_test.txt; X_train.txt;
+X_test.txt; y_train.txt; y_test.txt
 
 ## Run the script run_analysis.R
 Download the script from here
