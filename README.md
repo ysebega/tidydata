@@ -8,7 +8,7 @@ Unzip the file and move the following in the same working directory: features.tx
 X_test.txt; y_train.txt; y_test.txt
 
 ## Run the script run_analysis.R
-Download the script from here.Open RConsole (64-bit preferably). Ensure that the working directory is the one where the script is located
+Download the script from here: https://github.com/ysebega/tidydata/blob/master/run_analysis.R. Open RConsole (64-bit preferably). Ensure that the working directory is the one where the script is located
 Type: source("run_analysis.R") to the console; After 2 mins or so the code run and ends. 
 A file "tidy.txt" is created in the same directory.
 
